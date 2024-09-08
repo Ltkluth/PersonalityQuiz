@@ -1,0 +1,35 @@
+/* STYLE SECTIONING TAGS */
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+/* STYLE TEXT */
+h1 {
+  font-style: italic;
+  color: #0d9c90;
+}
+h2 {
+  margin-top: 2em; 
+}
+.centerAlignText{
+  text-align: center;
+}
+/* STYLE FLEX CONTAINER */
+.question {
+  display: flex;
+  justify-content: center;
+  margin-top: 2em;
+}
+/* STYLE FLEX ITEM */
+.answer-choice {
+  margin: 5px;
+}
+/* STYLE IMAGES */
+img {
+  height: 10em;
+}
+/* STYLE BUTTON */
+button { 
+  margin-top: 5px;
+}
